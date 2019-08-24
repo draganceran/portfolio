@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  background-image: url("/images/handson.png");
+  background-size: cover;
+
+}
+
+.title , .subtitle, .navbar-item, .fab{
+  color: #2079C7;
+}
+.logotext{
+  color: #2079C7;
+}
+.logo{
+  width: 90px;
+  margin: 17px;
+}
+.logowrap{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: baseline;
+  margin: auto;
+  justify-content:space-evenly;
+}
+
+.navbar, .card, .section{
+  background-color: black;
+}
+.button{
+  background-color: #2079C7;
+  color: white;
+  border-color: black;
+}
+.buttons{
+  display: block;
+}
