@@ -55,7 +55,7 @@ const Projects = () => {
           </div>
           <div className="card-content">
             <div className="section projecttext">
-              <p>Pair coding on one laptop for day and a half. Main task of the project was to display data from  third-party API (Unsplash).
+              <p>Pair coding on one laptop for the day and a half. The main task of the project was to display data from the third-party API (Unsplash).
                 <br/>Time frame:1.5 day
                 <br/>Technologies: HTML, SCSS,Bulma, React, Axios, API, Express, Webpack
                 <br/>Github repo: <a href="http://bit.ly/hardduck-git" target="_blank"> http://bit.ly/hardduck-git </a>
