@@ -5,19 +5,17 @@
   overflow: hidden;
   background-image: url("images/handson.png");
   background-size: cover;
-
 }
 
-.title , .subtitle, .navbar-item, .fab{
+.title , .subtitle, .navbar-item, .fab, .logotext{
   color: #2079C7;
 }
-.logotext{
-  color: #2079C7;
-}
+
 .logo{
   width: 90px;
   margin: 17px;
 }
+
 .logowrap{
   display: flex;
   flex-direction: row;
@@ -30,18 +28,23 @@
 .navbar, .card, .section{
   background-color: black;
 }
+
 .button{
   background-color: #2079C7;
   color: white;
   border-color: black;
 }
+
 .buttons{
   display: block;
 }
-@media screen and (max-width: 1023px){
 
+@media screen and (max-width: 1023px){
 .navbar-menu {
     background-color: black;
     padding: 0.5rem 0;
 }
+}
+p {
+  color: white;
 }
