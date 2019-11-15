@@ -38,7 +38,7 @@ const Projects = () => {
                   <br/>Time frame: 7 days
                   <br/>Technologies: MongoDb, Mongoose, HTML, SCSS,Bulma, React, Axios, JWT, Express,API’s, Git
                   <br/>Github repo: <a href="http://bit.ly/SEI-Project3" target="_blank">http://bit.ly/SEI-Project3 </a>
-                  <br/>Hosting: <a href="bit.ly/sei3-projectblack" target="_blank"> bit.ly/sei3-projectblack</a>
+                  <br/>Hosting: <a href="http://bit.ly/sei3projectblack" target="_blank"> bit.ly/sei3-projectblack</a>
                 </p>
               </div>
             </div>
