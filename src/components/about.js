@@ -5,7 +5,7 @@ const About = () => {
     <div id="aboutme" className="section aboutme ">
       <h1 className="subtitle has-text-weight-bold">ABOUT ME</h1>
       <div className="content">
-        <p>Recently I finished software engineering Bootcamp in General Assembly where I have gained the foundation of web development and improved my coding skills. With overall good knowledge of web technologies including frontend and backend development processes, and fair understanding of modern web frameworks such are ReactJS and NodeJS, I am looking for a position where personal growth has the same importance as company development. 
+        <p>I recently completed the software engineering bootcamp at General Assembly where I have gained a solid foundation in web development and improved my coding skills. With a good knowledge of frontend and backend development processes and a fair understanding of frameworks such as React and Node.js, I am looking for a position where personal growth has the same importance as the company development. 
         </p>
       </div>
     </div>
