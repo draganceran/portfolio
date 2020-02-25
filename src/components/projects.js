@@ -19,7 +19,7 @@ const Projects = () => {
                 <p>Go farm was created, using React and Python, as a main hub between farmers and customers. After the initial idea, first part was database creation, after that frontend was created and all connected.</p>
                 <p>Time frame: 7 days</p>
                 <br/><p>Technologies: PostgreSQL, Python, Flask, Pony, HTML, SCSS,Bulma, React, Axios, JWT</p>
-                <br/>Github repo: <a href="http://bit.ly/github-gofarm" target="_blank"> http://bit.ly/github-gofarm</a>
+                <br/><p>Github repo: <a href="http://bit.ly/github-gofarm" target="_blank"> http://bit.ly/github-gofarm</a></p>
               </div>
             </div>
           </div>

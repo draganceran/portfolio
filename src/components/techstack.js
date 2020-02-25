@@ -45,6 +45,10 @@ const Techstack = () => {
           <img className="itlogo" src="./images/postgresql.png"/>
           <div className="logotext">postgreSQL</div>
         </div>
+        <div className="logo">
+          <img className="itlogo" src="./images/gatsby.svg"/>
+          <div className="logotext">Gatsby</div>
+        </div>
       </div>
     </div>
   </div>
